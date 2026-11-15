@@ -9,7 +9,8 @@ Generate the image
   },
   "lighting": "Warm, golden glow from rows of flickering earthen diyas, colorful festive string lights, and bright golden sparks from fireworks against a deep twilight sky",
   "camera": {
-    "shot": "Medium-wide environmental portrait",
+    #"shot": "Medium-wide environmental portrait",
+     "shot": "Wide Cinematic Establishing Shot",
     "lens": "35mm",
     "angle": "Eye-level, slightly low to capture the towering Rockfort temple in the background"
   },
