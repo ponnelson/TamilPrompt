@@ -1,0 +1,30 @@
+
+{
+  "subject": "Festive South Indian family in traditional silk sarees and veshtis lighting clay oil lamps (agals) and sparklers on a bustling heritage street in Trichy during Deepavali",
+  "setting": {
+    "place": "Tiruchirappalli (Trichy), Tamil Nadu, India, with the iconic Rockfort Uchippillayar Temple illuminated in the background",
+    "era": "Contemporary",
+    "time_of_day": "Dusk / Nighttime in November"
+  },
+  "lighting": "Warm, golden glow from rows of flickering earthen diyas, colorful festive string lights, and bright golden sparks from fireworks against a deep twilight sky",
+  "camera": {
+    "shot": "Medium-wide environmental portrait",
+    "lens": "35mm",
+    "angle": "Eye-level, slightly low to capture the towering Rockfort temple in the background"
+  },
+  "palette": [
+    "Warm saffron and marigold orange",
+    "Deep crimson and royal silk gold",
+    "Twilight indigo blue",
+    "Fiery sparkler amber"
+  ],
+  "style": "Cinematic photorealism, vibrant cultural photography, rich textures, shallow depth of field with festive bokeh",
+  "aspect_ratio": "16:9",
+  "avoid": [
+    "North Indian architecture",
+    "Snow or winter clothing",
+    "Blurry faces",
+    "Overexposed highlights",
+    "Artificial CGI look"
+  ]
+}
