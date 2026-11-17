@@ -1,4 +1,4 @@
-Generate the image
+# Generate the image
 {
   "subject": "Festive South Indian family in traditional silk sarees and veshtis lighting clay oil lamps (agals) and sparklers on a bustling heritage street in Trichy during Deepavali",
   "setting": {
@@ -14,6 +14,11 @@ Generate the image
     "lens": "35mm",
     "angle": "Eye-level, slightly low to capture the towering Rockfort temple in the background"
   },
+#"motion": {
+ # "subject_motion": "Family members smiling and interacting warmly, children gently waving sparklers that cast bright golden sparks, elders placing and lighting earthen oil lamps (agals), and background pedestrians strolling along the heritage street.",
+ # "camera_move": "A smooth, slow forward tracking shot with a shallow depth of field, keeping the family in sharp focus while the festive bokeh and the illuminated Rockfort temple in the background gently shimmer.",
+ # "duration_seconds": 5
+}#,
   "palette": [
     "Warm saffron and marigold orange",
     "Deep crimson and royal silk gold",
